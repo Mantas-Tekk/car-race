@@ -98,11 +98,11 @@
             }
 
             .carVintage {
-                background-image: url(/img/car-blue.png);
+                background-image: url(./img/car-blue.png);
             }
 
             .carSport{
-                background-image: url(/img/sports_green.png);
+                background-image: url(./img/sports_green.png);
             }
 
             
